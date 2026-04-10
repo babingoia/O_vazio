@@ -1,0 +1,2 @@
+-> Colocar um pequeno timer de caminhada e sempre pedir a rota dos jogadores.
+-> Descrever ambientes neutros e perguntar sempre o que os personagens estão sentindo e percebendo.

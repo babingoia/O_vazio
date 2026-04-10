@@ -1,0 +1,6 @@
+.markdown-preview-view p,
+.cm-s-obsidian .cm-line {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
