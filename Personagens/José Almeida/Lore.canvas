@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"56a7ca47653e8467","type":"text","text":"**De onde veio? O quanto e como sua origem impacta sua vida?**\n\nR: Eu nasci aqui, na cidade, cresci e vivi com meus pais, estudei em uma boa escola, não particular, mas, prestigiada. Posso me considerar bem de vida, mas ainda assim...","x":-357,"y":40,"width":648,"height":127,"color":"#ffffff"},
+		{"id":"6910799ed7b0b927","type":"text","text":"José Almeida","x":-106,"y":-60,"width":147,"height":64,"color":"#ffffff"},
+		{"id":"1279e736969e6fd9","type":"text","text":"**Como você enxerga e interage com o mundo? Qual a cor, o cheiro e o gosto das coisas?**\n\nR: Eu tenho uma vida boa, mas ainda assim... Por que tudo parece tão... Cinza?","x":-357,"y":220,"width":648,"height":120,"color":"#ffffff"},
+		{"id":"fa33c1add8a640cf","type":"text","text":"**O que você faz quando não existe mais nada pra fazer?**\n\nR: Eu... Nunca parei pra pensar nas coisas que fazia... Claro, eu jogava.. Jogava videogame,  jogava basquete.. Eu me divertia, mas agora.. As coisas não me parecem mais tão gratificantes... ","x":-357,"y":400,"width":648,"height":140,"color":"#ffffff"},
+		{"id":"22ccf4a4497b461a","type":"text","text":"**O mundo já te gratificou? E quanto a você mesmo?**\n\nR: Sim, na minha infância... Notas altas, uma cesta bem feita, um chefão derrotado.. Essas.. pequenas coisas me gratificavam tanto, mas agora, parece que nada mas importa de verdade... ","x":-357,"y":600,"width":648,"height":140,"color":"#ffffff"},
+		{"id":"0e31af10ffb883eb","type":"text","text":"**Quais seus vislumbres do futuro?**\n\nR: Quando penso para o futuro eu vejo... Não vejo nada... Sinto que... Talvez nada verdadeiramente importe...","x":-357,"y":800,"width":648,"height":120,"color":"#ffffff"},
+		{"id":"84999c4a733a3596","type":"text","text":"**Quais seus contratos sociais?**\n\nR: Meus pais, meus amigos... São por eles que eu ainda vivo. Por eles que eu tenho que exceder as expectativas. Não posso deixar eles sozinhos. Não posso abandonar tudo...","x":-357,"y":980,"width":648,"height":140,"color":"#ffffff"},
+		{"id":"a30cbb10b7e0a9bc","type":"text","text":"**Quais seus contratos sociais?**\n\nR: Meus pais, meus amigos... São por eles que eu ainda vivo. Por eles que eu tenho que exceder as expectativas. Não posso deixar eles sozinhos. Não posso abandonar tudo...","x":-357,"y":1180,"width":648,"height":140,"color":"#ffffff"},
+		{"id":"a1f50eda4af2aa85","type":"text","text":"**A ordem está imposta. Como o caos se manifesta?**\n\nR: \n\nInconscientes:\n- Diz amar as multidões, mas odeia o seu barulho;\n- Adora os esportes, mas odeia os palanques;\n- Ama a solitude, mas seu silencio é ensurdecedor.\n\nConscientes:\n- Diz adorar a competição, mas não suporta a comparação quando se mostra inferior;\n- Diz adorar conversar com pessoas, mas não consegue conversar por cinco minutos sem as suas engrenagens mentais falharem ( com exceção, é claro, de seus amigos );\n- Ama os esportes, físicos e digitais, à ponto de obsessão, mas finge que não.","x":-357,"y":1380,"width":648,"height":440,"color":"#ffffff"},
+		{"id":"c04b0fcb790a33ca","type":"text","text":"**Há algo que você se importa. Qual sua manifestação?**\n\nR: Desde que comecei à servir no exercito, não saio de perto do rifle, não sei o porquê mas, ele me dá uma sensação de... poder.","x":-357,"y":1880,"width":648,"height":120,"color":"#ffffff"}
+	],
+	"edges":[
+		{"id":"33f6fc1d382708a9","fromNode":"a30cbb10b7e0a9bc","fromSide":"bottom","toNode":"a1f50eda4af2aa85","toSide":"top"},
+		{"id":"f978054749d66fd0","fromNode":"84999c4a733a3596","fromSide":"bottom","toNode":"a30cbb10b7e0a9bc","toSide":"top"},
+		{"id":"e3affa6ce2deb191","fromNode":"6910799ed7b0b927","fromSide":"bottom","toNode":"56a7ca47653e8467","toSide":"top"},
+		{"id":"fd0da10fcf3394bd","fromNode":"56a7ca47653e8467","fromSide":"bottom","toNode":"1279e736969e6fd9","toSide":"top"},
+		{"id":"e12f5d8c4c1a4ab8","fromNode":"a1f50eda4af2aa85","fromSide":"bottom","toNode":"c04b0fcb790a33ca","toSide":"top"},
+		{"id":"550cc5ebe400b607","fromNode":"1279e736969e6fd9","fromSide":"bottom","toNode":"fa33c1add8a640cf","toSide":"top"},
+		{"id":"6fd3b8a64bbd4199","fromNode":"fa33c1add8a640cf","fromSide":"bottom","toNode":"22ccf4a4497b461a","toSide":"top"},
+		{"id":"f96fcc45598b6604","fromNode":"22ccf4a4497b461a","fromSide":"bottom","toNode":"0e31af10ffb883eb","toSide":"top"},
+		{"id":"d434065fd9a23381","fromNode":"0e31af10ffb883eb","fromSide":"bottom","toNode":"84999c4a733a3596","toSide":"top"}
+	]
+}

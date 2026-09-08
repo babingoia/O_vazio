@@ -1,21 +1,24 @@
+
+# Lore dos Jogadores
+
+-> Gabriel tá com 2 pontos de exaustão.
+	-> Quando desacordar eu vou invocar o diabo e conversar com os outros jogadores.
+
+-> O Mago tá sem conseguir lançar as magias.
+
+-> Eliza tá esquecendo rostos.
+
+-> Leonardo viu sua família.
+
+* Irmãos do Leonardo na lagoa maior.
+* Hortinha da Lagoa pra Eliza
 # **Afazeres Necessários**
 
--> Adicionar as músicas no discord.
-
--> Arrumar oq acontece na mente do jogador depois de cair na terceira lagoa.  
-
--> Adicionar as músicas específicas.
-
--> Criar os poderes e itens dos jogadores.
+-> Sistema de Tempo (chuva, neve, etc..)
+-> Terminar o quartel
 
 # **Afazeres pra expandir**
 
--> Criar o mapa interno do relógio.
-
--> Terminar o quartel
+-> Arrumar oq acontece na mente do jogador depois de cair na terceira lagoa.  
 
 -> Colocar uns minigames no shopping.
-
--> Sistema de Tempo (chuva, neve, etc..)
-
--> Criar pequenos itens que conectam os dois mundos para exploração de lugares vazios.

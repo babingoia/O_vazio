@@ -89,6 +89,32 @@ Juntar todas elas cria um plort,
 
 * Plorts Instáveis: Uma espécie de pedra translúcida que altera constantemente entre o vermelho e o azul, instável que pode ser estabilizado e, a depender do astro no céu, cria um plort prismático ou um plort sombroso. Para estabilizar é necessário se concentrar durante um descanso, gastando uma ação. Destruir o plort criado regenera essa mana de volta. Plorts instáveis também podem explodir caso os jogadores recebam dano, falhem em um teste com ele no inventário ou o joguem, causando 2d6 pontos de dano.
 
-* Plorts Sombrosos: São completamente negros e emanam uma pequena fumaça. Durante o dia, eles tornam o usuário invisível, além disso, garantem uma vantagem de fase para o primeiro teste feito logo após consumir uma folha. Além disso, por 5 pontos de mana permanente até o efeito acabar, pode expandir a escuridão para uma área de 6m. Durante o dia, os próprios plorts se tornam invisíveis e seus poderes não funcionam mais.
+* Plorts Sombrosos: São completamente negros e emanam uma pequena fumaça. Durante o dia, eles tornam o usuário invisível, além disso, garantem uma vantagem de fase para o primeiro teste feito logo após consumir uma folha. Além disso, por 5 pontos de mana permanente até o efeito acabar, pode expandir a escuridão para uma área de 6m. Durante a noite, uma vantagem de fase é garantida para o primeiro teste feito logo após consumir uma folha.
 
-* Plorts Prismáticos: São extremamente claros e possuem um pequeno sol dentro deles. Não são quentes mas emanam uma luz forte durante a noite, deixando tudo claro por 3m e ofuscando quem fica fora da área. Por 5 pontos de mana permanente até o efeito acabar, o usuário pode aumentar essa área para 12m fazendo com que, para quem esteja dentro, pareça dia. Enquanto a lua estiver no céu, uma vantagem de fase é garantida para o primeiro teste feito logo após consumir uma folha.
+* Plorts Prismáticos: São extremamente claros e possuem um pequeno sol dentro deles. Não são quentes mas emanam uma luz forte durante a noite, deixando tudo claro por 3m e ofuscando quem fica fora da área. Por 5 pontos de mana permanente até o efeito acabar, o usuário pode aumentar essa área para 12m fazendo com que, para quem esteja dentro, pareça dia. Enquanto o sol estiver no céu, uma vantagem de fase é garantida para o primeiro teste feito logo após consumir uma folha.
+
+
+# Tempestade Catártica
+"Um livro escrito numa língua própria e com cheiro de papel queimado. As letras se conectam por vazamentos sem padrão de alguém que escrevia com uma intensidade que transbordava para o corpo e agora, pra quem lê. Esses sigilos tem contornos azulados bruscos em formas de Lichtenberg e, mesmo sem compreender a linguagem, parecem passar uma mensagem pelos sentidos que entram em contato com ela."
+
+"Pra você Diabo, um frio na espinha te atinge só de tocar, observar e ouvir o som do ar carregado pelas figuras. Ele conta uma história impossível: a sua história - desde que você sabe que existe. Mas isso é quase como o cheiro indiferente do gramado, um gosto comum de água, um ruído distante e fraco. Não é isso que te incomoda. A linha histórica se engrossa - do passado pro presente até o futuro e junto dela, os sentidos se tornam mais substanciais. O choque que atravessa seus dedos remonta todas as sensações de poucos segundos atrás. A voz da imponência, a garota, o som do vidro quebrando; tudo. Mas o insuportável gosto de faísca do papel que acabou de ser queimado te conta algo mais a frente, atravessando finalmente a barreira do presente e chegando no futuro; uma profecia: a sua morte. O frio na espinha é essa dor insuportável da morte que nenhum dos 5 sentidos consegue interpretar sozinho. As sensações de agora começam a mudar sua memória daquele instante. O céu que você enxergava como tristeza: não é mais isso. As gotas de água recebem um tom de deboche, de brincadeira, de risada. Mas, essa simulação única e poderosa da morte também te ensina algo."
+
+Você agora consegue conversar na linguagem da catarse e da sortuda. 
+
+Você +1 ponto em um atributo a sua escolha e +20 pontos de perícia para distribuir. Sua vida, mana e energia máxima aumentam todas em +10.
+
+Pode usar uma ação completa para disputar roubar uma magia de um ser que consiga enxergar a até 12m de distância. Os dois jogam um teste de arcano para isso. Se você conseguir enxergar o livro da magia que está tentando roubar, esse teste ganha uma vantagem de fase.
+
+Como ação bônus, pode forçar um fenômeno meteorológico que pega o mapa inteiro para garantir efeitos:
+
+* Precipitação: Você recupera 5 pontos de vida e mana no inicio de cada rodada.
+
+* Ventos Fortes: Todos que quiserem se mover precisam realizar um teste de arranque. Se não tirarem um resultado maior ou igual a BOM perdem metade da velocidade naquela rodada.
+
+* Nevasca: Quem FALHAR em um teste de fortitude recebe -5 pontos de regeneração de mana até esse efeito acabar. 
+
+* Insolação: Causa um ponto temporário que não pode ser regenerado de exaustão até esse efeito se dissipar em quem não passar em um teste de vigor.
+
+* Eclipse: Bagunça completamente o cenário no campo de batalha. No início de cada uma das rodadas todos jogam sentidos e furtividade para que possam se enxergar.
+
+
